@@ -1,0 +1,10 @@
+Package: interfaceHRV
+Type: Package
+Title: Graphical Interface for RHRV package 
+Version: 1.0
+Date: 2014-06-26
+Author: Patricia Guillin Barreiro
+Maintainer: Patricia Guillin <patricia.guillin@hotmail.com>
+Description: Graphical Interface for RHRV package 
+License: GPL-3
+Depends: R (>= 3.0.2), RHRV (>= 4.0), shiny (>= 0.9.1), knitr (>= 1.6)
